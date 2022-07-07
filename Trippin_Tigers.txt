@@ -1,0 +1,83 @@
+Trippin Tigers Project Outline
+
+Mint Price: 1.5 sol
+Mint Date: July 6, 9AM
+Supply: 4444
+
+Information
+
+    Pretty standard NFT based on Tigers
+
+    NFT can be staked for $ROAR token
+
+    $ROAR is used for auctions, raffles, mutations, fusions, and subscription/minting of the NFT suite of tools
+    that will be provided to holders
+
+    Mutations are where using $ROAR tokens holders will be able to mutate their NFTs to 
+    “Transcend” to heavenly forces or “Fall” to join the Underworld. There will be weekly/monthly
+    competitions between the two forces and the winners will get a bonus of $ROAR token awarded to them.
+
+    Fusions are where the Trippin Tigers collection partners with another collection in order to create
+    a fusion of NFTs
+
+    Reveal is immediate on mint
+
+    Suite of tools info
+        Includes a Sniper bot for both Magiceden and Opensea. 
+        This will include graphs and data on NFTs in both SOL and ETH in real time. 
+        This will also include a dedicated analyst to give daily call outs and information. 
+        The devs plan to build out the details of this after mint as they see how much funding they can allocate towards this component.
+
+
+
+
+
+Pros
+
+    64.7K followers on twitter
+
+    Art style is similar to most popular collections
+
+    52,067 discord members
+
+    3176 upvotes on magiceden which is the second highest out of all the drops
+
+    25% of mint funds will be allocated to the DAO treasury for investments and raffles for the DAO.
+
+    NFT can be staked for $ROAR token
+
+    Most twitter posts have around 500 likes but the most recent one has 1.7K likes
+
+    Holders have access to "a Suite of NFT tools including a sniping and minting bot as well as a artist 1/1 marketplace."
+    (More information on the suite of NFT tools can be found in the Information section)
+
+    98% royalties until mint out to discourage selling before mint is over
+
+    over 4,000 manually submitted wallets for the whitelist
+
+    Very active discord
+
+    Strong community
+
+    Plans to privately dox with Followship DAO
+
+    Owner talks in discord chats atleast once a day usually around midnight
+
+    Expected to sell out
+
+    Annoucements have reactions reaching the thousands (this means their discord is active)
+
+    The suite of tools is a reason for holders to continue holding instead of just selling
+
+
+
+
+
+Cons
+
+    Very unlikely to be able to mint unless you are whitelisted
+
+    Owner is not publicly doxxed and there is just zero info on them so there is no way of knowing whether they are an MIT graduate or a junkie however they are 
+    privately doxxed so this isn't a rug, Trippin Ape Tribe was the same way and they turned out to be one of the top collections on Magic Eden
+
+    Only 30 whitelist spots left and three days until mint so if you want to mint you better get one of those 30 spots if not you can just buy it on Magic Eden after mint is over

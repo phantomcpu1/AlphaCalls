@@ -1,0 +1,155 @@
+Realized Rhapsody Project
+
+Mint Price: 3.5 sol
+Mint Date: July 10th
+Supply: 7900
+
+
+
+Information:
+
+    NFT functions as a pass to their own NFT insights tool
+
+    The real product here is the NFT insights tool not the NFT so rarity shouldn't matter, just buy at floor price
+
+    Extra features will be provided to wallets holding more than one qualified NFT
+
+    If mint doesn't sell out then the remaining NFTs will be placed on exchanges at mint price
+
+    If mint doesn't sell out then the remaining NFTs will be placed on exchanges at mint price
+
+    No additional NFTs will be issued within 90 days of the original mint
+
+    If an NFT is transferred between wallets it is disqualified for 24 hours
+
+    The only way to reinstate a disqualified NFT is to pay a sin tax
+
+    You can tell if your NFT is qualified on their website
+
+    Team is privately doxxed to Magic Eden
+
+
+Metric features that will be released at launch:
+
+    Total Projects Launched over time
+    Total Projects Launched per month
+    Total Supply over time
+    Total NFTs Minted over time
+    Project sellout rates per month
+    First Time Minters per month
+    Unique Minters per month
+    Supply trends over time
+    Mint price trends over time
+    Total Amount of SOL spent on mints per month
+    Total Creator Revenue over time
+    Total Creator Launch Fees over time
+    Total Minter Fees over time
+    24hr, 3d, 7d, 30d, and all time volume on collections
+    Collection item sales price over time
+    Diamond hands (Not sure what they meant by this one)
+
+
+Metric features that will be released at a later date:
+
+    Average Mint Price for sold-out projects over time
+    Average Mint Price for sold out projects over time split into supply groups
+    Average Minter Distribution Coefficient on sold-out projects over time
+    Minter Distribution Coefficient on projects with revenue >7499 SOL
+    Last 24hr Mint Volume
+    Last 24hr Minted NFTs
+    Last 3d Mint Volume
+    Last 3d Minted NFTs
+    Last 7d Mint Volume
+    Last 7d Minted NFTs
+    First Mint Date and Time
+    Last Mint Date and Time
+    Minter experience level breakdown (smart, experienced, rookie)
+    FOMO-score on projects
+
+
+
+Pros:
+
+    If an NFT is purchased or listed below minting price it is disqualified for access to the NFT insights product so you shouldn't be able
+    to lose money if you minted or bought at minting price.
+
+    The NFT insights tool looks amazing and should be the reason you mint, if you do decide to mint
+
+    16 analytic features will be released at launch with atleast 14 more on the way
+
+    The most advanced NFT insights tool to ever be created for solana NFTs
+
+    All team members with the exception of cryptomane and BDC have many accomplishments and are beyond qualified
+
+    Recommended by Thomas who is one of the Co-founders of NFT Leaguez
+
+
+
+Cons:
+
+    chaotic Discord
+
+    half the people in the discord talk like bots
+
+    Expensive mint
+
+    NFTs being disqualified for access to NFT insights tool doesn't punish the person who sells but it does punish the person who buys so it is a very flawed system.
+    This system is flawed to the point that it could be the downfall of this project.
+
+
+
+Team Members:
+
+    Solspyder - Lead Data Engineer
+
+        15+ years in data integration, data warehousing, and business intelligence
+
+        Held senior technology roles in both large publicly traded enterprises and startups
+
+        Founded three successful startups
+
+        MBA and MSc Computer Science
+    
+
+
+    Unrealized - Lead Software Engineer
+
+        15+ years as a software architect, cloud architect, and software development lead
+
+        Closest thing to the mythical “Full-stack developer” title you can find
+
+        Held senior technology roles in both large enterprises and startups
+
+        Crypto and coin enthusiast and long-time operator of numerous GPU and asic miners
+
+    
+
+    Tree - Business Developer / Product Designer
+
+        6+ yrs of tech startup experience
+
+        6+ yrs of B2B high ticket sales experience
+
+        Co-founder of successful business intelligence startup
+
+        BSc Finance
+
+
+
+    Cryptomane - Marketing Manager
+
+        5+ yrs in crypto space
+
+        Extensive background from online gaming communities
+
+        Twitter and Discord ninja
+    
+
+
+    BDC - Marketing Manager
+
+        5+ yrs in crypto space
+
+        YouTube educational content creator/influencer
+
+        Twitter and Discord ninja
