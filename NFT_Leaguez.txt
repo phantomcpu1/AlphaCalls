@@ -4,34 +4,34 @@ Minting price: 2 sol
 
 Information:
 
-NFT Leaguez is a next-generation play-to-earn gaming experience based on basketball.
+    NFT Leaguez is a next-generation play-to-earn gaming experience based on basketball.
 
-Each NFT has a unique combination of special traits that are linked to performance stats such as, shooting, speed, passing, ball handling, dunk/jumping,
-defense, rebounding, and height
+    Each NFT has a unique combination of special traits that are linked to performance stats such as, shooting, speed, passing, ball handling, dunk/jumping,
+    defense, rebounding, and height
 
-Every game that is played will be simulated by an immutable algorithm that determines the outcome.
+    Every game that is played will be simulated by an immutable algorithm that determines the outcome.
 
-Each round will allow a player to select 3 NFTs from their digital roster & then watch the simulation of the outcome.
+    Each round will allow a player to select 3 NFTs from their digital roster & then watch the simulation of the outcome.
 
-Financial rewards for winning games
+    Financial rewards for winning games
 
-The total supply of the Leaguez is 13,000. The initial genesis drop, launching July 15th, is 1020 of the 13,000.
+    The total supply of the Leaguez is 13,000. The initial genesis drop, launching July 15th, is 1020 of the 13,000.
 
-The 2nd mint will happen a couple months after the genesis mint
+    The 2nd mint will happen a couple months after the genesis mint
 
-Link for their parent company Stadio can be found here https://stadio.global/
+    Link for their parent company Stadio can be found here https://stadio.global/
 
-If you don't have three of their NFTs then you will be provided with one or two randomly generated players to take their places
+    If you don't have three of their NFTs then you will be provided with one or two randomly generated players to take their places
 
-Different utilities by which drops you minted in
+    Different utilities by which drops you minted in
 
 
 
 Lore:
 
-Rookie team, NFT Leaguez have entered the competition! Can they put up a fight and become the next champions? 
+    Rookie team, NFT Leaguez have entered the competition! Can they put up a fight and become the next champions? 
 
-Your job as manager and coach is to pick the future of the team. 3 players, fit to take the competition to the next level. Who will you choose?
+    Your job as manager and coach is to pick the future of the team. 3 players, fit to take the competition to the next level. Who will you choose?
 
 
 
@@ -39,57 +39,57 @@ Your job as manager and coach is to pick the future of the team. 3 players, fit 
 
 Pros:
 
-Publicly doxxed including videos which have their face in them.
+    Publicly doxxed including videos which have their face in them.
 
-Listed on Magic Eden's launchpad page and will most likely be the featured launch when they release
+    Listed on Magic Eden's launchpad page and will most likely be the featured launch when they release
 
-Twitter posts all have around 700 likes and several hundred retweets
+    Twitter posts all have around 700 likes and several hundred retweets
 
-Seed funding by Scalare Partners $1m secured in less than 24h 
+    Seed funding by Scalare Partners $1m secured in less than 24h 
 
-Adidas partnership with officially licensed merchandise
+    Adidas partnership with officially licensed merchandise
 
-Interviews were conducted with NBA and NBL professional athletes for game launch marketing
+    Interviews were conducted with NBA and NBL professional athletes for game launch marketing
 
-Full time development team
+    Full time development team
 
-Financial rewards for winning games
+    Financial rewards for winning games
 
-Initial supply is low so the floor price will be high at launch
+    Initial supply is low so the floor price will be high at launch
 
-All founders have backgrounds in tech and have each succesfully founded and build their own companies.
+    All founders have backgrounds in tech and have each succesfully founded and build their own companies.
 
-Active discord especially for an NFT project whos release is 15 days away
+    Active discord especially for an NFT project whos release is 15 days away
 
-Founders are active in the discord chats
+    Founders are active in the discord chats
 
-Art work looks great
+    Art work looks great
 
-Looks like it may be the most professional web3 game ever made
+    Looks like it may be the most professional web3 game ever made
 
-Incredible trailer, https://twitter.com/NFTLeaguez/status/1542613868257906688?s=20&t=N1cvAIJg3Bs-AvfzLLDrNg
+    Incredible trailer, https://twitter.com/NFTLeaguez/status/1542613868257906688?s=20&t=N1cvAIJg3Bs-AvfzLLDrNg
 
-Founders have connections to founder of Trippin Ape Tribe
+    Founders have connections to founder of Trippin Ape Tribe
 
-Contract drawn up with 4 key players
+    Contract drawn up with 4 key players
 
-weekly development calls with magic eden.
+    weekly development calls with magic eden.
 
 Cons:
 
-High minting price
+    High minting price
 
-Founders don't have many followers on their individual twitter pages and some of the followers they do have are fake.
+    Founders don't have many followers on their individual twitter pages and some of the followers they do have are fake.
 
-Founders don't have experience launching NFT projects
+    Founders don't have experience launching NFT projects
 
-High supply so you may want to sell before 2nd mint happens but the 2nd mint is supposed to be a higher price so that may actually raise the floor price.
+    High supply so you may want to sell before 2nd mint happens but the 2nd mint is supposed to be a higher price so that may actually raise the floor price.
 
-Only 130 upvotes on magic eden which is very low
+    Only 130 upvotes on magic eden which is very low
 
-No real gameplay footage, but snapshots of animation from the game can be found in the trailer
+    No real gameplay footage, but snapshots of animation from the game can be found in the trailer
 
-Game release is months away so hype may die down before it releases
+    Game release is months away so hype may die down before it releases
 
 
 
@@ -122,12 +122,12 @@ Twitter: https://twitter.com/saardude
 
 Links:
 
-Offical Website: https://nftleaguez.com/
-Magic Eden launchpad page: https://magiceden.io/launchpad/nft_leaguez
-Parent company website: https://stadio.global/
-Discord: https://discord.gg/mmkJFYKu
-Twitter: https://twitter.com/NFTLeaguez
-Trailer: https://twitter.com/NFTLeaguez/status/1542613868257906688?s=20&t=N1cvAIJg3Bs-AvfzLLDrNg
+    Offical Website: https://nftleaguez.com/
+    Magic Eden launchpad page: https://magiceden.io/launchpad/nft_leaguez
+    Parent company website: https://stadio.global/
+    Discord: https://discord.gg/mmkJFYKu
+    Twitter: https://twitter.com/NFTLeaguez
+    Trailer: https://twitter.com/NFTLeaguez/status/1542613868257906688?s=20&t=N1cvAIJg3Bs-AvfzLLDrNg
 
 
 
