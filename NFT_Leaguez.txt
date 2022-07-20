@@ -25,6 +25,11 @@ Information:
 
     Different utilities by which drops you minted in
 
+    The game will be a strategic game style, you will match up your NFTs and figure out how to build the best team based on each character's traits or skill 
+    sets and then an algorithm will figure out who wins and loses.
+
+    Each NFT will have so many games it will be able to play each day, the amount of games is dependent on the rarity of the NFT.
+
 
 
 Lore:

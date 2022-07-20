@@ -1,0 +1,141 @@
+Rakkudo Project Outline
+
+Mint Price: TBA
+Mint Date: TBA
+Supply: TBA
+
+
+
+
+
+Information,
+
+    Rakkudo is being created by Shakudo which is a tech company, they describe themselves as a decentralized severless
+    AWS designed for web3 and data teams whos focus is on computing, data, and execution
+
+    Shakudo is releasing an NFT collection to act as a catalyst for the growth of the Shakudo Platform
+
+
+
+    Holder benefits include,
+
+        Discounts, credits, and special offers for the Shakudo platform
+    
+        Sizeable referral fees paid out for introfucing new customers to Shakudo which can be thousands of USDC for each referral
+
+        Earn yield with the $KUDOS token
+
+
+    The shakudo platform is an end-to-end platform designed to take your 
+    data from experiment to product
+
+    based in canada
+
+    Shakudo was founded by Yevgeniy Vahlis, Stella Wu, and Christine Yuen.
+
+
+
+
+
+Pros
+
+    Lots of hype
+
+    SOL Big Brain who is a major crypto influencer has 208k followers on twitter who said a bunch of smart people are bullish about this project
+
+    Profits from mint will go towards marketing and expanding dev team
+
+    Whitelist spots over allocated so it will likely sell out before they go public
+
+    Shakudo which is the parent company behind Rakkudo is partnered with Nvidia, Cyxtera, ORACLE, and Vector Institute
+
+    Shakudo is also partnered with Udder Chaos, MonkeDAO, DegenDAO, and Liberty Square HQ
+
+    Holder benefits which can be found in the information section above
+
+    All team members are beyond qualified
+
+
+
+
+
+
+
+Cons
+
+    May be extremely difficult to get whitelist since there is obvious way to be noticed by the team.
+
+    The lack of cons may mean the team is covering up whatever defects this project may have, or they just have an amazing project.
+
+
+
+
+
+Team
+
+    Yevgeniy Vahlis,
+
+        Ph.D in computer science at University of Toronto
+
+        Yevgeniy was most likely the one who brought this team together
+
+        Experience,
+
+            Senior Research Scientist at AT&T for 2 years and 4 months
+
+            Chief Cryptographer at Nymi for 1 year and 9 months
+
+            Founder of modp.io for 1 year and 1 month
+
+            Senior software development engineer at amazon for 1 year and 2 months
+
+            Director of Applied Research at Georgian partners for 1 year and 5 months
+
+            Head of applied machine learning at Borealis AI for 1 year and 3 months (This is probably where Yevgeniy met Stella)
+
+            Founder and head of BMO AI Labs for 2 years and 7 months (This is probably where Yevgeniy met Christine)
+
+    
+    
+    Stella Wu,
+
+        Ph.D Energy, Environment, and Natural Resources Law at University of münster, Germany
+
+        Masters degree in Environment and Sustainability at Lund University
+
+        Statistical Learning credential issued by Stanford University
+
+        Expierience,
+
+            Research Associate at University of Guelph for 2 years and 8 months
+
+            Post-Doctoral Fellow at Environment Canada for 2 years and 1 month
+            
+            Data Scientist at Firmex for 1 year and 11 months
+
+            Co-Founder of mAlgic Inc. (No that is not a typo, I checked) for two years
+
+            Machine Learning Researcher at Borealis AI for 1 year and 10 months (This is probably where Stella met Yevgeniy)
+
+
+
+    Christine Yuen
+
+        Honours BSc in computer science and biology at Western University
+
+        Master of Applied computing in Data Science
+
+        Varsity badminton player at western University (Could be something to talk about with Christine)
+
+        Experience,
+            
+            Summer Intern at Corus Entertainment for 5 months
+
+            Teaching Assistant at University of Toronto for 4 months
+
+            Finance and Software Intern at Corus Entertainment for 10 months
+
+            Data Science Intern at Deloitte Omnia AI for 9 months until being promoted to 
+            an Applied Research Scientist for 6 months
+
+            AI Research Developer at BMO AI for 2 years and 1 month (This is probably where Christine met Yevgeniy)
